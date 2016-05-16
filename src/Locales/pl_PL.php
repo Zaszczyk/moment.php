@@ -4,6 +4,7 @@
 // author: Mateusz Błaszczyk https://github.com/Zaszczyk
 
 
+
 $ifLastDigitIsSpecial = function ($count, $trueString, $falseString)
 {
     $specialDigits = ['2', '3', '4'];
